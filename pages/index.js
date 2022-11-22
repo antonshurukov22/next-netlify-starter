@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+    <meta name="mailru-domain" content="XPsls7cqX7UfYeGF" />
       </Head>
 
       <main>
