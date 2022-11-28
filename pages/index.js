@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
  <meta name="mailru-domain" content="3rNuhknz9U4gPcl5" />
       </Head>
-<body>
+
         <script src="https://commerce5.maxoptra.ru/gt/gt-api/website-widget?p=https://commerce5.maxoptra.ru/gt/&a=shurukov&l=ru&w=200&h=200" charset="utf-8" id="tracking-widget-script"></script>
 
       <main>
@@ -22,7 +22,7 @@ export default function Home() {
         </p>
     
       </main>
-</Body>
+
       <Footer />
     </div>
   )
