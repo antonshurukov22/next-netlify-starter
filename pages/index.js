@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        <script src="https://commerce5.maxoptra.ru/gt/gt-api/website-widget?p=https://commerce5.maxoptra.ru/gt/&a=shurukov&l=ru&w=500&h=500" charset="utf-8" id="tracking-widget-script"></script>
+    
 
         <link rel="icon" href="/favicon.ico" />
  <meta name="mailru-domain" content="3rNuhknz9U4gPcl5" />
@@ -18,6 +18,8 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <script src="https://commerce5.maxoptra.ru/gt/gt-api/website-widget?p=https://commerce5.maxoptra.ru/gt/&a=shurukov&l=ru&w=500&h=500" charset="utf-8" id="tracking-widget-script"></script>
+    
       </main>
 
       <Footer />
