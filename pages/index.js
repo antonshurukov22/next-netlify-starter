@@ -24,6 +24,9 @@ export default function Home() {
 
       <Footer />
     </div>
+    <div>
     <script src="https://commerce5.maxoptra.ru/gt/gt-api/website-widget?p=https://commerce5.maxoptra.ru/gt/&a=shurukov&l=ru&w=500&h=500" charset="utf-8" id="tracking-widget-script"></script>
+  
+</div>
   )
 }
