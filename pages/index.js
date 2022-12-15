@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-	<script src="https://cdn.jsdelivr.net/npm/json2csv"></script>
+<script src="https://cdn.jsdelivr.net/npm/json2csv@4.2.1"></script>
 
   )
 }
